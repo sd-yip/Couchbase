@@ -2,7 +2,7 @@ Couchbase Docker Image
 ===
 
 ```sh
-docker pull sdyip/couchbase:community-5.0.1
+docker pull sdyip/couchbase:community-5.1.1
 ```
 
 ## Environment Variables
